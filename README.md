@@ -41,6 +41,3 @@ Este projeto está licenciado sob a licença ISC.
 
 ---
 
-Sinta-se à vontade para adaptar este boilerplate às suas necessidades!
-```
-
