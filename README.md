@@ -1,12 +1,12 @@
 
-```markdown
 # Boilerplate TypeScript + Node.js
 
 Este repositório é um boilerplate minimalista para desenvolvimento com **TypeScript** e **Node.js**, utilizando `tsx` para execução em ambiente de desenvolvimento e `tsup` para build de produção.
 
 ## 📦 Estrutura
 
-```
+----
+```markdown
 
 ├── src/
 │   └── server.ts       # Arquivo principal do servidor
